@@ -1,17 +1,11 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
-	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+    "geode": "v3.0.0",
+    "id": "velvet7.justnoclip",
+    "name": "JustNoclip",
+    "version": "v1.0.0",
+    "developer": "Velvet7",
+    "description": "Just noclip. Press J to open menu, click button to toggle noclip",
+    "gd": {
+        "win": "2.208"
+    }
 }
